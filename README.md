@@ -7,9 +7,13 @@ Reference: To be added.
 ## List of scripts:
 
 - [1. ObtainSH_Locations_for_AfternoonRain_24km120km_iterate.py](#head1)
-- [2. Obtain_StormEvent_Episode_MCS.py](#head2)
-- [3. Obtain_StormEvent_Episode_nonMCS.py](#head3)
-- [Contact us](#head4)
+- [2. ObtainSH_Locations_for_NightRain_24km120km_iterate.py](#head2)
+- [3. ObtainSH_SMpercentile_AfternoonRain_5degree1d.py](#head3)
+- [4. ObtainSH_SMpercentile_NightRain_5degree1d.py'](#head4)
+- [5. Obtain_WarmSM5ET5_correlations_160GridSmooth_detrend.py](#head5)
+- [6. Obtain_WarmSM5PP5_correlations_160GridSmooth_detrend.py](#head6)
+- [7. Obtain_WarmSM5ET5xET5PP5_correlations_160GridSmooth_detrend.py](#head7)
+- [Contact us](#head8)
 
 ---------
 ### <a name="head1"></a>1. ObtainSH_Locations_for_AfternoonRain_24km120km_iterate.py
@@ -114,7 +118,7 @@ The script calculates the coupling strength between initial soil moisture and a 
 | A	| Obtain_mmmSM5ET5XET5PP5_correlations_160GridSmooth_detrend.nc | record another way to calculate coupling strength between initial soil moisture and a-pentad-lagged pentad rainfall, through the production of the two-legged coupling strengths |
 
 -------
-### <a name="head7"></a>Contact us
+### <a name="head8"></a>Contact us
 Huancui Hu: Huancui.Hu@pnnl.gov
 
 
